@@ -1,0 +1,21 @@
+# Foldery konfiguracyjne i tymczasowe Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Specyficzne foldery kompilacji dla C# / .NET
+bin/
+obj/
+*.user
+
+# Pliki binarne kompilatora
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.sdf
+*.opensdf
+*.tlog
+*.log
